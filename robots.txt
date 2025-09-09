@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ivanjarkov.github.io/PuzzleFree.Game/sitemap.xml
