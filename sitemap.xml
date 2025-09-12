@@ -1,23 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home -->
   <url>
     <loc>https://ivanjarkov.github.io/PuzzleFree.Game/</loc>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Active Articles -->
   <url>
     <loc>https://ivanjarkov.github.io/PuzzleFree.Game/facts.html</loc>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ivanjarkov.github.io/PuzzleFree.Game/history.html</loc>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ivanjarkov.github.io/PuzzleFree.Game/apps.html</loc>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ivanjarkov.github.io/PuzzleFree.Game/guides/solving-online.html</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Future Articles (commented until published) -->
+  <!--
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/guides/500-pieces.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/guides/photo-puzzle.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/guides/big-puzzles.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/guides/sorting.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/guides/store.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/guides/kids-difficulty.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/guides/frame.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/guides/friends.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/history/famous-makers.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/history/world-championship.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/history/traditions.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/history/collecting.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/history/wood-vs-cardboard.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/history/depression-era.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/history/expensive.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/history/ai-rise.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/benefits/memory-focus.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/benefits/stress.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/benefits/child-development.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/benefits/problem-solving.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/benefits/cognitive-decline.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/benefits/therapy.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/benefits/teamwork.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/benefits/addictive.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/benefits/mindfulness.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/benefits/creativity.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/apps/ai-generators.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/apps/multiplayer.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/apps/daily-challenges.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/apps/kids.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/apps/free-vs-premium.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/apps/ar.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/apps/industry.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/apps/cross-platform.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/apps/top-sites.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/themes/christmas.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/themes/nature.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/themes/cities.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/themes/anime.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/themes/space.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/themes/animals.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/themes/art.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/themes/sports.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/themes/trends-2025.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ivanjarkov.github.io/PuzzleFree.Game/themes/future.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  -->
+
 </urlset>
