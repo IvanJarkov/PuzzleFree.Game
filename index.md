@@ -13,7 +13,7 @@ Here you’ll find guides, history, facts, apps, psychology insights, and themat
 ---
 
 ## 🎯 Guides & How-To
-- How to start solving jigsaw puzzles online *(coming soon)*
+- [How to start solving jigsaw puzzles online](solving-online.md)
 - Tips to complete a 500-piece puzzle faster *(coming soon)*
 - How to create your own puzzle from a photo *(coming soon)*
 - Best strategies for big puzzles (1000+ pieces) *(coming soon)*
