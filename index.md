@@ -16,7 +16,7 @@ Here you’ll find guides, history, facts, apps, psychology insights, and themat
 - [How to start solving jigsaw puzzles online](solving-online.md)
 - [Tips to complete a 500-piece puzzle faster](/guides/500-pieces.md)
 - How to create your own puzzle from a photo *(coming soon)*
-- Best strategies for big puzzles (1000+ pieces) *(coming soon)*
+- [Best strategies for big puzzles (1000+ pieces)](guides/big-puzzles.md)
 - How to sort puzzle pieces effectively *(coming soon)*
 - How to store unfinished puzzles safely *(coming soon)*
 - How to choose puzzle difficulty for kids *(coming soon)*
