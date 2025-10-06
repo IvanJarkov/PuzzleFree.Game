@@ -75,7 +75,7 @@ Here you’ll find guides, history, facts, apps, psychology insights, and themat
 - Anime puzzles for fans of Japanese culture *(coming soon)*
 - Space puzzles: galaxies and stars *(coming soon)*
 - Animal puzzles kids will love *(coming soon)*
-- Art puzzles: from Van Gogh to AI paintings *(coming soon)*
+- [Art puzzles: from Van Gogh to AI paintings](themes/art.md)
 - Sports puzzles for football and basketball fans *(coming soon)*
 - Puzzle trends in 2025 *(coming soon)*
 - Future of puzzles: AI, VR, and beyond *(coming soon)*
